@@ -1,0 +1,22 @@
+{
+  "name": "telebot",
+  "version": "0.0.1",
+  "description": "Simple Telegram Bot Plugins",
+  "main": "beta.js",
+  "scripts": {
+    "start": "nodemon beta.js"
+  },
+  "author": "Lann",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "express": "^4.18.2",
+    "figlet": "^1.6.0",
+    "file-type": "^16.5.3",
+    "form-data": "^4.0.0",
+    "mime-types": "^2.1.35",
+    "nodemon": "^3.0.1",
+    "node-fetch": "^2.6.1",    
+    "node-telegram-bot-api": "^0.52.0"
+  }
+}
