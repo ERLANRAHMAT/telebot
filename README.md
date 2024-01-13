@@ -27,8 +27,8 @@ Follow the [official Telegram Bot documentation](https://core.telegram.org/bots#
 
 ## API Key Setup
 
-1. Obtain your API key from [BetaBotz](https://api.betabotz.org/users/register) after registration and login.
-2. Retrieve your API key at [BetaBotz Profile](https://api.betabotz.org/profile).
+1. Obtain your API key from [BetaBotz](https://api.betabotz.eu.org/users/register) after registration and login.
+2. Retrieve your API key at [BetaBotz Profile](https://api.betabotz.eu.org/profile).
 
 Complete the `settings.js` file with the obtained API key, owner name, owner number, and thumbnail URL.
 
