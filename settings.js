@@ -8,7 +8,7 @@ module.exports = {
   ownerUsernames: [""],//Your Username
   ownerNumber: "",//Your Number 
   telegramBotToken: "",//Your Bot Tokens
-  imageUrl: "https://aemt.me/file/IESxiuAvGCyZ.jpg",//Thumbnail Url
+  imageUrl: "https://btch.pages.dev/file/313139c543db723fb67e6.jpg",//Thumbnail Url
   buttonUrl: "https://github.com/ERLANRAHMAT/telebot",//Script Url
   api: "https://api.betabotz.eu.org",
   apikey: "Your Key",//Change Your Apikey
