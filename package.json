@@ -4,7 +4,7 @@
   "description": "Simple Telegram Bot Plugins",
   "main": "beta.js",
   "scripts": {
-    "start": "nodemon beta.js"
+    "start": "node beta.js"
   },
   "author": "Lann",
   "license": "ISC",
