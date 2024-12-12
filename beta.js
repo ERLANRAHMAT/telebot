@@ -50,7 +50,7 @@ const options = {
       [
         {
           text: 'Script Bot',
-          url: buttonUrl, // Ganti dengan URL yang sebenarnya
+          url: buttonUrl, 
         },
       ],
     ],
