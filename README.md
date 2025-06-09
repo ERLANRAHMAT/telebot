@@ -78,6 +78,7 @@ Hi, Betalann! I'm your automated Telegram Bot here to assist you daily.
 
 1. [BOTCAHX](https://github.com/BOTCAHX)
 2. [ERLAN](https://github.com/ERLANRAHMAT)
-3. Telegram API
+3. [PAUL](https://github.com/dreamliner21)
+4. Telegram API
 
 Feel free to explore these features and let me know if you need any assistance! 🤖
